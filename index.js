@@ -1,3 +1,6 @@
+import '@logseq/libs';
+logseq.ready(main).catch(console.error);
+
 function parseProps(str) {
   const result = {};
   if (!str) return result;
