@@ -1,0 +1,14 @@
+{
+  "name": "logseq-ajax-button",
+  "version": "0.0.1",
+  "description": "Logseq plugin to add clickable buttons that send AJAX requests.",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Nothing to build'",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "keywords": ["logseq", "plugin", "ajax"],
+  "author": "Codex",
+  "license": "MIT",
+  "type": "commonjs"
+}

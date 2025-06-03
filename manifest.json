@@ -1,0 +1,8 @@
+{
+  "id": "logseq-ajax-button",
+  "name": "AJAX Button",
+  "description": "Add clickable buttons that send AJAX requests.",
+  "author": "Codex",
+  "version": "0.0.1",
+  "main": "index.js"
+}
